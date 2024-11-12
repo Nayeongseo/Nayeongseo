@@ -1,13 +1,35 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=003B46&height=200&section=header&text=Welcome%20to-nl-YeongSeo's%20Github!&fontSize=70&fontColor=FFA500)
+![header](https://capsule-render.vercel.app/api?type=waving&color=003B46&height=200&section=header&text=YeongSeo's%20Github&fontSize=70&fontColor=FFA500)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nayeongseo&show_icons=true&title_color=FFA500&bg_color=346473&text_color=FFCB46)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nayeongseo&show_icons=true&title_color=FFA500&bg_color=346473&text_color=FFCB46&icon_color=FFA500" alt="YeongSeo's GitHub stats">
+</p>
+
+---
+
+### Researchs
+🗨️ **Phase 1** (June 2024 ~ July 2024): Designing content to induce specific emotions and implementing a VR environment
+
+🗨️ **Phase 2** (July 2024 ~ September 2024): Conducting EEG analysis for addiction research
+
+🗨️ **Phase 3** (October 2024 ~ November 2024): Preliminary study to verify the effectiveness of Binaural Beats
+
+---
+
+### Awards
+- 2023 뤼튼 아이디어톤
+- 2024 아마존 AWS 우수상
+- 2024 과학치안 아이디어공모전 경찰청장상
+
+---
 
 <details>
-  <summary>
-    🌱 I’m currently learning...
-  </summary>
-    Baekjoon: https://www.acmicpc.net/workbook/view/1152
+  <summary><b>🌱 I aspire to be</b></summary>
+  <ul>
+    <li>Data Analyst</li>
+    <li>AI Engineer</li>
+  </ul>
 </details>
 
 
